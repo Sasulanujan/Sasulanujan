@@ -24,11 +24,6 @@
 
 ---
 
-
-> Tip: Visit [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for theme options and how to self-host.
-
----
-
 ## 🧰 Tech Stack & Tools
 
 | Frontend             | Backend                  | DevOps / Infra                | Data / AI                     | Other                                |
