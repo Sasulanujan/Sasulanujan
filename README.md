@@ -25,24 +25,11 @@
 ---
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sasulanujan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sasulanujan&show_icons=true&theme=radical&hide_border=true&border_radius=12" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sasulanujan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sasulanujan&show_icons=true" />
-</picture>
-<a href="https://github.com/sasulanujan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sasulanujan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/sasulanujan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sasulanujan&repo=convoychat" />
-</a>
-
+</div>
 
 
 
