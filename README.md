@@ -1,4 +1,4 @@
-# Hi, I'm **USERNAME** 👋
+# Hi, I'm **Sasula Nujan** 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=4F46E5&background=0a0a0a00&center=true&vCenter=true&lines=Full-stack+Engineer+%7C+Open+Source+Enthusiast+%7C+AI+ tinkerer" alt="Typing SVG">
@@ -18,9 +18,9 @@
 ## 🚀 Quick Links
 
 * 🔗 Website / Portfolio: `https://your-portfolio.com`
-* 📝 Blog: `https://your-blog.com`
+* 📝 Blog: `https://learntomining.blogspot.com`
 * 📄 Resume: `https://your-portfolio.com/resume.pdf`
-* ✉️ Contact: `mailto:hello@your-email.com`
+* ✉️ Contact: `mailto:sasulanujan@gmail.com`
 
 ---
 
