@@ -31,6 +31,11 @@
   />
 </div>
 
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sasulanujan&theme=radical&margin-w=12&no-frame=true&column=6" 
+  />
+</div>
 
 
 
