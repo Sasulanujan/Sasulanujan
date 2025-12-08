@@ -27,13 +27,13 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sasulanujan&show_icons=true&theme=radical&hide_border=true&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api?username=Sasulanujan&show_icons=true&theme=radical&hide_border=true&border_radius=12" 
   />
 </div>
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=sasulanujan&theme=radical&margin-w=12&no-frame=true&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=Sasulanujan&theme=radical&margin-w=12&no-frame=true&column=6" 
   />
 </div>
 
