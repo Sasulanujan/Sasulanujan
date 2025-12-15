@@ -1,7 +1,7 @@
 # Hi, I'm **Sasula Nujan** 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=4F46E5&background=0a0a0a00&center=true&vCenter=true&lines=Full-stack+Engineer+%7C+Open+Source+Enthusiast+%7C+AI+ tinkerer" alt="Typing SVG">
+  <img src="https://github.com/Sasulanujan/Sasulanujan/blob/master/sasulanujan%20profile.gif?raw=true" alt="Typing SVG">
 </p>
 
 ---
