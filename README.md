@@ -1,7 +1,7 @@
 # Hi, I'm **Sasula Nujan** 👋
 
 <p align="center">
-  <img src="https://github.com/Sasulanujan/Sasulanujan/blob/master/banner%20sasulanujan.gif?raw=true" alt="Typing SVG">
+  <img src="https://github.com/Sasulanujan/Sasulanujan/blob/master/typing%20monkey.gif?raw=true" alt="Typing SVG">
 </p>
 
 ---
